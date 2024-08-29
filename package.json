@@ -1,0 +1,12 @@
+{
+  "name": "photo-resize-application",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "App to resize the image dimensions",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prem Kumar Kardale",
+  "license": "ISC"
+}
