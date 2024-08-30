@@ -14,10 +14,10 @@
   <h2>Installation</h2>
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone https://github.com/yourusername/photo-resizer.git</code></pre>
+      <pre><code>git clone https://github.com/premkumar-004/Photo-Resize-Application.git</code></pre>
     </li>
     <li>Install dependencies:
-      <pre><code>cd photo-resizer
+      <pre><code>cd Photo-Resize-Application
 npm install</code></pre>
     </li>
     <li>Start the application:
