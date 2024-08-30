@@ -1,3 +1,7 @@
+<head>
+  <title>Photo Resizer - README</title>
+</head>
+
   <h1>Photo Resizer</h1>
   <p>A simple desktop application built with Electron that allows users to quickly resize images. This tool is perfect for those who need to batch resize photos for web uploads, email attachments, or other purposes, without sacrificing quality.</p>
 
