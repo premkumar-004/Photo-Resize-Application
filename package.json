@@ -5,8 +5,13 @@
   "description": "App to resize the image dimensions",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "author": "Prem Kumar Kardale",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^32.0.1",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
 }
